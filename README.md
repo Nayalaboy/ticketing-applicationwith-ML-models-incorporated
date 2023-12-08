@@ -1,8 +1,7 @@
-## Ticketing Application for Bus Reservations, Flights, and Events in Burkina Faso (West Africa)
-
+## Ticketing Application for Bus Reservations, Flights, and Events 
 ### Overview
 
-This project is dedicated to developing a s ticketing application specifically for Burkina Faso, a region with limited access to such digital services. The application will enable efficient and user-friendly booking of bus tickets, flights, and event tickets, integrating advanced machine learning technologies to enhance user experience and operational efficiency.
+This project is dedicated to developing a ticketing application. The application will enable efficient and user-friendly booking of bus tickets, flights, and event tickets, integrating advanced machine learning technologies to enhance user experience and operational efficiency.
 
 #### Machine Learning Components
 
