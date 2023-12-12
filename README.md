@@ -10,7 +10,7 @@ The application will incorporate four key ML models:
 
     Purpose: To offer personalized event, flight, and bus journey recommendations based on individual user preferences and historical behaviors.
     Data Sources: User interaction data, flight schedules, bus routes, event details.
-    Techniques: Utilizing methods like collaborative filtering, content-based filtering, or a combination of both.
+    Techniques: Utilizing content-based filtering method
 
 2. Customer Support Chatbot
 
