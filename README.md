@@ -8,27 +8,27 @@ This project is dedicated to developing a ticketing application. The application
 The application will incorporate four key ML models:
 1. Recommendation System
 
-    Purpose: To offer personalized event, flight, and bus journey recommendations based on individual user preferences and historical behaviors.
-    Data Sources: User interaction data, flight schedules, bus routes, event details.
-    Techniques: Utilizing content-based filtering method
+    - Purpose: To offer personalized event, flight, and bus journey recommendations based on individual user preferences and historical behaviors.
+    - Data Sources: User interaction data, flight schedules, bus routes, event details.
+    - Techniques: Utilizing content-based filtering method
 
 2. Customer Support Chatbot
 
-    Purpose: To assist users with inquiries related to bookings, provide information about services, and offer troubleshooting assistance.
-    Data Sources: Existing customer service logs, scripted dialogues, online FAQs.
-    Techniques: Implementing Natural Language Processing (NLP) and sequence-to-sequence models.
+    - Purpose: To assist users with inquiries related to bookings, provide information about services, and offer troubleshooting assistance.
+    - Data Sources: Existing customer service logs, scripted dialogues, online FAQs.
+    - Techniques: Implementing Natural Language Processing (NLP) and sequence-to-sequence models.
 
 3. Fraud Detection
 
-    Purpose: To detect and prevent fraudulent transactions within the app.
-    Data Sources: Financial transaction datasets, synthetically generated data representing fraudulent scenarios.
-    Techniques: Employing anomaly detection algorithms and supervised learning models.
+    - Purpose: To detect and prevent fraudulent transactions within the app.
+    - Data Sources: Financial transaction datasets, synthetically generated data representing fraudulent scenarios.
+    - Techniques: Employing anomaly detection algorithms and supervised learning models.
 
 4. Sentiment Analysis
 
-    Purpose: To analyze and understand customer feedback, reviews, and sentiments for service improvement.
-    Data Sources: Online reviews, social media data, customer feedback submissions.
-    Techniques: Leveraging NLP, opinion mining, and text analysis methods.
+    - Purpose: To analyze and understand customer feedback, reviews, and sentiments for service improvement.
+    - Data Sources: Online reviews, social media data, customer feedback submissions.
+    - Techniques: Leveraging NLP, opinion mining, and text analysis methods.
 
 #### Project Goals
 
